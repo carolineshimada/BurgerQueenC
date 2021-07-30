@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BurgerQueenC", "BurgerQueenC\BurgerQueenC.csproj", "{F977BE27-E1EF-4331-8772-AB057160CD27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F977BE27-E1EF-4331-8772-AB057160CD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F977BE27-E1EF-4331-8772-AB057160CD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F977BE27-E1EF-4331-8772-AB057160CD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F977BE27-E1EF-4331-8772-AB057160CD27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F915DD2-622B-4E47-9392-EABBD17CDA07}
+	EndGlobalSection
+EndGlobal
