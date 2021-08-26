@@ -6,14 +6,17 @@
 Os endpoints que deverão ser disponíveis são:
 </p>
 
+- [ ] 1
+
 #### `/users`
-- [x]
+
 * `GET /users`
 * `GET /users/:uid`
 * `POST /users`
 * `PUT /users/:uid`
 * `DELETE /users/:uid`
-- [ ]
+
+- [ ] 2
 #### `/products`
 
 * `GET /products`
@@ -21,7 +24,8 @@ Os endpoints que deverão ser disponíveis são:
 * `POST /products`
 * `PUT /products/:productid`
 * `DELETE /products/:productid`
-- [ ]
+
+- [ ] 3
 #### `/orders`
 
 * `GET /orders`
