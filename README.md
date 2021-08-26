@@ -16,7 +16,7 @@ Os endpoints que deverão ser disponíveis são:
 * `PUT /users/:uid`
 * `DELETE /users/:uid`
 
-- [ ] 2
+- [x] 2
 #### `/products`
 
 * `GET /products`
