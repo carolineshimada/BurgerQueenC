@@ -7,13 +7,13 @@ Os endpoints que deverão ser disponíveis são:
 </p>
 
 #### `/users`
-- [ ]
+- [x]
 * `GET /users`
 * `GET /users/:uid`
 * `POST /users`
 * `PUT /users/:uid`
 * `DELETE /users/:uid`
-- [x]
+- [ ]
 #### `/products`
 
 * `GET /products`
