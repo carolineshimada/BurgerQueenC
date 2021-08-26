@@ -1,8 +1,8 @@
 <h4 align="center"> 
 	🚧  BurgerQueen em C# 🚀 Em construção...  🚧
-	#Proposta: Reproduzir o projeto em JS BurgerQueen [repositório aqui](https://github.com/carolineshimada/SAP005-burger-queen-api) em C#. Ou seja, criar uma API com ASP.NET         Core e MongoDB
 </h4>
 
+#Proposta: Reproduzir o projeto em JS BurgerQueen [repositório aqui](https://github.com/carolineshimada/SAP005-burger-queen-api) em C#. Ou seja, criar uma API com ASP.NET         Core e MongoDB
 Os endpoints que deverão ser disponíveis são:
 
 #### `/users`
